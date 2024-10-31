@@ -1,0 +1,10 @@
+---
+title: "About"
+output: 
+  html_document:
+  roc: true
+  toc_float: true
+---
+
+My name is Tiancheng Shi.I am a second year mph student in mailman school of public health in columbia university. 
+
